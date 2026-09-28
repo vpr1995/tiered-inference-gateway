@@ -1,0 +1,10 @@
+!jest.config.js
+*.d.ts
+*.js
+*.pyc
+.env
+.venv
+__pycache__
+cdk.out
+dist
+node_modules
